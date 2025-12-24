@@ -1,0 +1,40 @@
+body {
+  background-color: #fff; /* Sets the background color */
+  font-family: Arial, sans-serif; /* Sets a default font for all body content */
+  margin: 0; /* Removes default browser margin */
+  padding: 0; /* Removes default browser padding */
+  color: #333; /* Sets a default text color */
+}
+head {
+  background-color: #fff; /* Sets the background color */
+  font-family: Arial, sans-serif; /* Sets a default font for all body content */
+  margin: 0; /* Removes default browser margin */
+  padding: 0; /* Removes default browser padding */
+  color: #333; /* Sets a default text color */
+}
+
+form {
+    display: block;      /* Default behavior, but good to be explicit */
+    background-color: #f2f2f2; /* A light gray background for visibility */
+    padding: 20px;       /* Spacing inside the form container */
+          
+    margin: 0 auto;      /* Center the form on the page */
+    border-radius: 5px;  /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Add a subtle shadow */
+}
+h1 {
+  color: #333;           /* Change the text color */
+  font-size: 2.5em;      /* Adjust the font size */
+  text-align: center;    /* Center the text horizontally */
+  font-family: 'Arial', sans-serif; /* Change the font */
+  margin-top: 20px;      /* Add top margin */
+  margin-bottom: 20px;   /* Add bottom margin */
+}
+p {
+    color: navy; /* Sets the text color */
+    font-size: 16px; /* Sets the font size */
+    text-align: center; /* Centers the text */
+    margin: 10px 0; /* Adjusts top and bottom margins */
+    border: 1px solid gray; /* Adds a border */
+    padding: 10px; /* Adds space between the text and border */
+  }
